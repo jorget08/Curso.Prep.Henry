@@ -1,0 +1,36 @@
+body{
+    background-image:url("https://phantom-expansion.unidadeditorial.es/ca87f899635400532cc5d854c7504c8b/f/jpg/assets/multimedia/imagenes/2019/06/25/15614775255199.jpg");
+    
+}
+img{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#thirdDiv{
+    margin-left: 30%;
+    height: 600px;
+    width: 500px;
+    background-color: red;
+    padding: 50px;
+    border: 10px solid green;
+}
+h1, h3, h4{
+    color: green;
+}
+span{
+    font-size: 18px;
+    margin: 50px;
+    color: white;
+}
+.divClass{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    background-color: black;
+}
